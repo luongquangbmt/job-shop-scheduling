@@ -1,0 +1,48 @@
+///////////////////////////////////////////////////////////////////////////////
+// CPO file generated at 2020.02.05-18:36:16 for model: CP-Model
+// Source file: /home/hoale/Study/Code/hybrid/hybrid_cp_solver.py
+///////////////////////////////////////////////////////////////////////////////
+
+//--- Constants ---
+
+//--- Variables ---
+#line 44 "/home/hoale/Study/Code/hybrid/hybrid_cp_solver.py"
+"start-time-J0" = intervalVar(size=12);
+"start-time-J1" = intervalVar(size=6);
+"start-time-J2" = intervalVar(size=11);
+"start-time-J3" = intervalVar(size=12);
+"start-time-J4" = intervalVar(size=10);
+"start-time-J5" = intervalVar(size=10);
+"start-time-J6" = intervalVar(size=8);
+
+//--- Expressions ---
+#line 44 "/home/hoale/Study/Code/hybrid/hybrid_cp_solver.py"
+startOf("start-time-J0") >= 2;
+startOf("start-time-J1") >= 3;
+startOf("start-time-J2") >= 4;
+startOf("start-time-J3") >= 5;
+startOf("start-time-J4") >= 10;
+startOf("start-time-J5") >= 1;
+startOf("start-time-J6") >= 2;
+#line 47
+startOf("start-time-J0") <= 4;
+startOf("start-time-J1") <= 7;
+startOf("start-time-J2") <= 10;
+startOf("start-time-J3") <= 16;
+startOf("start-time-J4") <= 14;
+startOf("start-time-J5") <= 18;
+startOf("start-time-J6") <= 15;
+#line 50
+sizeOf("start-time-J0") == 12;
+sizeOf("start-time-J1") == 6;
+sizeOf("start-time-J2") == 11;
+sizeOf("start-time-J3") == 12;
+sizeOf("start-time-J4") == 10;
+sizeOf("start-time-J5") == 10;
+sizeOf("start-time-J6") == 8;
+#line 65
+(endOf("start-time-J0") <= startOf("start-time-J5")) || (endOf("start-time-J5") <= startOf("start-time-J0"));
+(endOf("start-time-J1") <= startOf("start-time-J2")) || (endOf("start-time-J2") <= startOf("start-time-J1"));
+(endOf("start-time-J1") <= startOf("start-time-J4")) || (endOf("start-time-J4") <= startOf("start-time-J1"));
+(endOf("start-time-J2") <= startOf("start-time-J4")) || (endOf("start-time-J4") <= startOf("start-time-J2"));
+(endOf("start-time-J3") <= startOf("start-time-J6")) || (endOf("start-time-J6") <= startOf("start-time-J3"));

@@ -1,0 +1,5 @@
+
+Gurobi 9.0.0 (linux64) logging started Fri 07 Feb 2020 01:36:16 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/2nd/2nd_milp_2.log
+   Prev: /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log  Default: 

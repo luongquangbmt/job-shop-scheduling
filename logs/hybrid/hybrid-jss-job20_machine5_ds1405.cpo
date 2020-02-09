@@ -1,0 +1,130 @@
+///////////////////////////////////////////////////////////////////////////////
+// CPO file generated at 2020.02.05-21:58:50 for model: CP-Model
+// Source file: /home/hoale/Study/Code/hybrid/hybrid_cp_solver.py
+///////////////////////////////////////////////////////////////////////////////
+
+//--- Constants ---
+
+//--- Variables ---
+#line 50 "/home/hoale/Study/Code/hybrid/hybrid_cp_solver.py"
+"start-time-J0" = intervalVar(size=12);
+"start-time-J1" = intervalVar(size=7);
+"start-time-J2" = intervalVar(size=11);
+"start-time-J3" = intervalVar(size=8);
+"start-time-J4" = intervalVar(size=12);
+"start-time-J5" = intervalVar(size=9);
+"start-time-J6" = intervalVar(size=10);
+"start-time-J7" = intervalVar(size=10);
+"start-time-J8" = intervalVar(size=4);
+"start-time-J9" = intervalVar(size=8);
+"start-time-J10" = intervalVar(size=12);
+"start-time-J11" = intervalVar(size=6);
+"start-time-J12" = intervalVar(size=7);
+"start-time-J13" = intervalVar(size=4);
+"start-time-J14" = intervalVar(size=7);
+"start-time-J15" = intervalVar(size=6);
+"start-time-J16" = intervalVar(size=8);
+"start-time-J17" = intervalVar(size=4);
+"start-time-J18" = intervalVar(size=7);
+"start-time-J19" = intervalVar(size=7);
+
+//--- Expressions ---
+#line 50 "/home/hoale/Study/Code/hybrid/hybrid_cp_solver.py"
+startOf("start-time-J0") >= 2;
+startOf("start-time-J1") >= 3;
+startOf("start-time-J2") >= 4;
+startOf("start-time-J3") >= 5;
+startOf("start-time-J4") >= 10;
+startOf("start-time-J5") >= 1;
+startOf("start-time-J6") >= 2;
+startOf("start-time-J7") >= 4;
+startOf("start-time-J8") >= 10;
+startOf("start-time-J9") >= 1;
+startOf("start-time-J10") >= 5;
+startOf("start-time-J11") >= 2;
+startOf("start-time-J12") >= 4;
+startOf("start-time-J13") >= 6;
+startOf("start-time-J14") >= 2;
+startOf("start-time-J15") >= 3;
+startOf("start-time-J16") >= 3;
+startOf("start-time-J17") >= 7;
+startOf("start-time-J18") >= 6;
+startOf("start-time-J19") >= 0;
+#line 53
+startOf("start-time-J0") <= 21;
+startOf("start-time-J1") <= 27;
+startOf("start-time-J2") <= 20;
+startOf("start-time-J3") <= 25;
+startOf("start-time-J4") <= 22;
+startOf("start-time-J5") <= 25;
+startOf("start-time-J6") <= 23;
+startOf("start-time-J7") <= 15;
+startOf("start-time-J8") <= 34;
+startOf("start-time-J9") <= 29;
+startOf("start-time-J10") <= 18;
+startOf("start-time-J11") <= 14;
+startOf("start-time-J12") <= 25;
+startOf("start-time-J13") <= 16;
+startOf("start-time-J14") <= 18;
+startOf("start-time-J15") <= 28;
+startOf("start-time-J16") <= 29;
+startOf("start-time-J17") <= 34;
+startOf("start-time-J18") <= 25;
+startOf("start-time-J19") <= 23;
+#line 56
+sizeOf("start-time-J0") == 12;
+sizeOf("start-time-J1") == 7;
+sizeOf("start-time-J2") == 11;
+sizeOf("start-time-J3") == 8;
+sizeOf("start-time-J4") == 12;
+sizeOf("start-time-J5") == 9;
+sizeOf("start-time-J6") == 10;
+sizeOf("start-time-J7") == 10;
+sizeOf("start-time-J8") == 4;
+sizeOf("start-time-J9") == 8;
+sizeOf("start-time-J10") == 12;
+sizeOf("start-time-J11") == 6;
+sizeOf("start-time-J12") == 7;
+sizeOf("start-time-J13") == 4;
+sizeOf("start-time-J14") == 7;
+sizeOf("start-time-J15") == 6;
+sizeOf("start-time-J16") == 8;
+sizeOf("start-time-J17") == 4;
+sizeOf("start-time-J18") == 7;
+sizeOf("start-time-J19") == 7;
+#line 71
+(endOf("start-time-J0") <= startOf("start-time-J1")) || (endOf("start-time-J1") <= startOf("start-time-J0"));
+(endOf("start-time-J0") <= startOf("start-time-J10")) || (endOf("start-time-J10") <= startOf("start-time-J0"));
+(endOf("start-time-J0") <= startOf("start-time-J12")) || (endOf("start-time-J12") <= startOf("start-time-J0"));
+(endOf("start-time-J1") <= startOf("start-time-J10")) || (endOf("start-time-J10") <= startOf("start-time-J1"));
+(endOf("start-time-J1") <= startOf("start-time-J12")) || (endOf("start-time-J12") <= startOf("start-time-J1"));
+(endOf("start-time-J2") <= startOf("start-time-J4")) || (endOf("start-time-J4") <= startOf("start-time-J2"));
+(endOf("start-time-J2") <= startOf("start-time-J9")) || (endOf("start-time-J9") <= startOf("start-time-J2"));
+(endOf("start-time-J3") <= startOf("start-time-J5")) || (endOf("start-time-J5") <= startOf("start-time-J3"));
+(endOf("start-time-J3") <= startOf("start-time-J15")) || (endOf("start-time-J15") <= startOf("start-time-J3"));
+(endOf("start-time-J3") <= startOf("start-time-J16")) || (endOf("start-time-J16") <= startOf("start-time-J3"));
+(endOf("start-time-J3") <= startOf("start-time-J17")) || (endOf("start-time-J17") <= startOf("start-time-J3"));
+(endOf("start-time-J4") <= startOf("start-time-J9")) || (endOf("start-time-J9") <= startOf("start-time-J4"));
+(endOf("start-time-J5") <= startOf("start-time-J15")) || (endOf("start-time-J15") <= startOf("start-time-J5"));
+(endOf("start-time-J5") <= startOf("start-time-J16")) || (endOf("start-time-J16") <= startOf("start-time-J5"));
+(endOf("start-time-J5") <= startOf("start-time-J17")) || (endOf("start-time-J17") <= startOf("start-time-J5"));
+(endOf("start-time-J6") <= startOf("start-time-J14")) || (endOf("start-time-J14") <= startOf("start-time-J6"));
+(endOf("start-time-J7") <= startOf("start-time-J8")) || (endOf("start-time-J8") <= startOf("start-time-J7"));
+(endOf("start-time-J7") <= startOf("start-time-J11")) || (endOf("start-time-J11") <= startOf("start-time-J7"));
+(endOf("start-time-J7") <= startOf("start-time-J13")) || (endOf("start-time-J13") <= startOf("start-time-J7"));
+(endOf("start-time-J7") <= startOf("start-time-J18")) || (endOf("start-time-J18") <= startOf("start-time-J7"));
+(endOf("start-time-J7") <= startOf("start-time-J19")) || (endOf("start-time-J19") <= startOf("start-time-J7"));
+(endOf("start-time-J8") <= startOf("start-time-J11")) || (endOf("start-time-J11") <= startOf("start-time-J8"));
+(endOf("start-time-J8") <= startOf("start-time-J13")) || (endOf("start-time-J13") <= startOf("start-time-J8"));
+(endOf("start-time-J8") <= startOf("start-time-J18")) || (endOf("start-time-J18") <= startOf("start-time-J8"));
+(endOf("start-time-J8") <= startOf("start-time-J19")) || (endOf("start-time-J19") <= startOf("start-time-J8"));
+(endOf("start-time-J10") <= startOf("start-time-J12")) || (endOf("start-time-J12") <= startOf("start-time-J10"));
+(endOf("start-time-J11") <= startOf("start-time-J13")) || (endOf("start-time-J13") <= startOf("start-time-J11"));
+(endOf("start-time-J11") <= startOf("start-time-J18")) || (endOf("start-time-J18") <= startOf("start-time-J11"));
+(endOf("start-time-J11") <= startOf("start-time-J19")) || (endOf("start-time-J19") <= startOf("start-time-J11"));
+(endOf("start-time-J13") <= startOf("start-time-J18")) || (endOf("start-time-J18") <= startOf("start-time-J13"));
+(endOf("start-time-J13") <= startOf("start-time-J19")) || (endOf("start-time-J19") <= startOf("start-time-J13"));
+(endOf("start-time-J15") <= startOf("start-time-J16")) || (endOf("start-time-J16") <= startOf("start-time-J15"));
+(endOf("start-time-J15") <= startOf("start-time-J17")) || (endOf("start-time-J17") <= startOf("start-time-J15"));
+(endOf("start-time-J16") <= startOf("start-time-J17")) || (endOf("start-time-J17") <= startOf("start-time-J16"));
+(endOf("start-time-J18") <= startOf("start-time-J19")) || (endOf("start-time-J19") <= startOf("start-time-J18"));
