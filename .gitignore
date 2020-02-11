@@ -5,3 +5,5 @@ __pycache__/
 logs/
 gurobi-jss.log_*_*
 job-shop-scheduling/
+*log
+*lp
