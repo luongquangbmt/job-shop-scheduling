@@ -31,9 +31,16 @@ def read_data():
         content = f.readlines()
         
     content = [x.strip() for x in content]
+    """
+    #jobs, #machines
+    list of processing costs
+    list of processing interval
+    """
     job_num, machine_num = map(int, content[0].split())
-    processing_cost = [[int(item) for item in content[idx].split()] for idx in range(1, job_num+1)]
-    process_intervals = [[int(item) for item in content[idx].split()] for idx in range(job_num+1, 2*job_num+1)]
+    processing_cost = [[int(item) for item in content[idx].split()] for idx in 
+                       range(1, job_num+1)]
+    process_intervals = [[int(item) for item in content[idx].split()] for idx in 
+                         range(job_num+1, 2*job_num+1)]
     request_times = [int(item) for item in content[2*job_num+1].split()]
     due_times = [int(item) for item in content[-1].split()]
     
@@ -44,8 +51,10 @@ def read_data():
     print("processing time:", process_intervals)
     print("release time:", request_times)
     print("due time:", due_times)
-    
-    return file_name, job_num, machine_num, processing_cost, process_intervals, request_times, due_times
+
+    return file_name, job_num, machine_num, processing_cost, process_intervals, \
+            request_times, due_times
+
 
 if __name__ == "__main__":
     read_data()

@@ -43,8 +43,6 @@ def _create_model(job_num, machine_num, job_ids, r_times, d_times, p_intervals, 
     job_cost = dict(zip(jobs, tuple(p_cost)))
     # print("processing cost:", job_cost)
     # 5. define BigU
-    # for i in range(job_num):
-    #     print(max(p_intervals[i]))
     U = sum([max(p_intervals[i]) for i in range(job_num)])
     # print("test U:", U)
     

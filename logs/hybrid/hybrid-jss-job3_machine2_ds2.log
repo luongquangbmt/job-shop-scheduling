@@ -1,0 +1,744 @@
+
+Gurobi 9.0.0 (linux64) logging started Wed 05 Feb 2020 06:33:28 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-job3_machine2_ds2.log
+   Prev: gurobi-jss.log_3_2  Default: 
+
+Solving model using baseline parameter set with TimeLimit=3600s
+
+Solving with random seed #1 ...
+Optimize a model with 11 rows, 9 columns and 24 nonzeros
+Model fingerprint: 0xc78c065e
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+00]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800000000000e+01, best bound 1.800000000000e+01, gap 0.0000%
+
+Solving with random seed #2 ...
+Optimize a model with 11 rows, 9 columns and 24 nonzeros
+Model fingerprint: 0xc78c065e
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+00]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800000000000e+01, best bound 1.800000000000e+01, gap 0.0000%
+
+Solving with random seed #3 ...
+Optimize a model with 11 rows, 9 columns and 24 nonzeros
+Model fingerprint: 0xc78c065e
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+00]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800000000000e+01, best bound 1.800000000000e+01, gap 0.0000%
+
+Setting total tuning time limit to 1s
+(set the TuneTimeLimit parameter to choose a different value)
+
+-------------------------------------------------------------------------------
+Begin tuning (baseline mean runtime 0.02s)...
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 2...
+
+	MinRelNodes 20000000
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 3...
+
+	PumpPasses 4000000
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 4...
+
+	MinRelNodes 4000000
+	PumpPasses 4000000
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 5...
+
+	PumpPasses 4000000
+	AggFill 100
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 6...
+
+	MinRelNodes 4000000
+	PumpPasses 4000000
+	GomoryPasses 15
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 7...
+
+	PumpPasses 4000000
+	ZeroObjNodes 4000000
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 8...
+
+	PumpPasses 4000000
+	GomoryPasses 15
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 9...
+
+	MIPFocus 2
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 10...
+
+	MIPFocus 2
+	PumpPasses 4000000
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 11...
+
+	MIPFocus 2
+	ZeroHalfCuts 1
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 12...
+
+	MIPFocus 2
+	Presolve 2
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 13...
+
+	MinRelNodes 4000000
+	MIPFocus 2
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 14...
+
+	PumpPasses 0
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 15...
+
+	MIPFocus 2
+	Aggregate 0
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 0s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 16...
+
+	Heuristics 0
+	MIPFocus 2
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 17...
+
+	MIPFocus 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 18...
+
+	StrongCGCuts 1
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 19...
+
+	MinRelNodes 20000000
+	MIPFocus 2
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 20...
+
+	Cuts 0
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 0s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 21...
+
+	VarBranch 1
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 22...
+
+	MinRelNodes 0
+	VarBranch 1
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 23...
+
+	NormAdjust 2
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 24...
+
+	VarBranch 1
+	Cuts 1
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 25...
+
+	PumpPasses 20000000
+	VarBranch 1
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 26...
+
+	PumpPasses 0
+	VarBranch 1
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 27...
+
+	MinRelNodes 4000000
+	VarBranch 1
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 28...
+
+	VarBranch 1
+	CutPasses 10
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 29...
+
+	CutPasses 10
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 30...
+
+	CutPasses 10
+	PrePasses 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Improvement found:
+  baseline: mean runtime 0.02s
+  improved: mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 31...
+
+	ZeroObjNodes 4000000
+	CutPasses 10
+	PrePasses 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 32...
+
+	MinRelNodes 4000000
+	CutPasses 10
+	PrePasses 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 33...
+
+	MinRelNodes 4000000
+	CutPasses 10
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 34...
+
+	MinRelNodes 4000000
+	ZeroObjNodes 4000000
+	CutPasses 10
+	PrePasses 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 35...
+
+	Heuristics 0
+	MIPFocus 2
+	VarBranch 0
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 36...
+
+	ZeroObjNodes 20000000
+	CutPasses 10
+	PrePasses 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 37...
+
+	BranchDir 1
+	CutPasses 10
+	PrePasses 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 38...
+
+	ZeroObjNodes 0
+	CutPasses 10
+	PrePasses 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 39...
+
+	MinRelNodes 0
+	CutPasses 10
+	PrePasses 3
+
+Solving with random seed #1 ... runtime 0.00s
+Solving with random seed #2 ... runtime 0.00s
+Solving with random seed #3 ... runtime 0.00s
+
+Progress so far:
+  baseline: mean runtime 0.02s
+  best:     mean runtime 0.00s
+Total elapsed tuning time 1s (-0s remaining)
+
+-------------------------------------------------------------------------------
+
+Tested 39 parameter sets in 0.86s
+
+Baseline parameter set: mean runtime 0.02s
+
+Improved parameter set 1 (mean runtime 0.00s):
+
+	CutPasses 10
+	PrePasses 3
+
+Improved parameter set 2 (mean runtime 0.00s):
+
+	CutPasses 10
+
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 11 rows, 9 columns and 24 nonzeros
+Model fingerprint: 0xc78c065e
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+00]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800000000000e+01, best bound 1.800000000000e+01, gap 0.0000%
+
+Gurobi 9.0.0 (linux64) logging started Wed 05 Feb 2020 06:41:06 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-job3_machine2_ds2.log
+   Prev: gurobi-jss.log_3_2  Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 11 rows, 9 columns and 24 nonzeros
+Model fingerprint: 0xc78c065e
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+00]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800000000000e+01, best bound 1.800000000000e+01, gap 0.0000%

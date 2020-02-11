@@ -1,0 +1,83 @@
+
+Gurobi 9.0.0 (linux64) logging started Fri 07 Feb 2020 01:27:44 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/2nd/hybrid-jss-job8_machine8_ds1.log
+   Prev: gurobi-jss.log_8_8  Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 32 rows, 72 columns and 204 nonzeros
+Model fingerprint: 0xa4b616cb
+Variable types: 8 continuous, 64 integer (64 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+03]
+Found heuristic solution: objective 12.0000000
+Presolve removed 32 rows and 72 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 2: 6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%
+
+Gurobi 9.0.0 (linux64) logging started Fri 07 Feb 2020 01:27:44 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/2nd/hybrid-jss-job8_machine8_ds1.log
+   Prev: /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job8_machine8_ds1.log  Default: 
+
+Gurobi 9.0.0 (linux64) logging started Fri 07 Feb 2020 01:28:39 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/2nd/hybrid-jss-job8_machine8_ds1.log
+   Prev: gurobi-jss.log_8_8  Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 32 rows, 72 columns and 204 nonzeros
+Model fingerprint: 0xa4b616cb
+Variable types: 8 continuous, 64 integer (64 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+03]
+Found heuristic solution: objective 12.0000000
+Presolve removed 32 rows and 72 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 2: 6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%
+
+Gurobi 9.0.0 (linux64) logging started Fri 07 Feb 2020 01:30:53 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/2nd/hybrid-jss-job8_machine8_ds1.log
+   Prev: gurobi-jss.log_8_8  Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 32 rows, 72 columns and 204 nonzeros
+Model fingerprint: 0xa4b616cb
+Variable types: 8 continuous, 64 integer (64 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+03]
+Found heuristic solution: objective 12.0000000
+Presolve removed 32 rows and 72 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 2: 6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%

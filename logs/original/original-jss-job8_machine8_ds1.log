@@ -1,0 +1,364 @@
+
+Gurobi 9.0.0 (linux64) logging started Wed 05 Feb 2020 06:26:44 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/original/original-jss-job8_machine8_ds1.log
+   Prev:   Default: 
+
+Solving model using baseline parameter set with TimeLimit=3600s
+
+Solving with random seed #1 ...
+Optimize a model with 1900 rows, 128 columns and 7968 nonzeros
+Model fingerprint: 0x97b27b02
+Variable types: 8 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+03]
+Found heuristic solution: objective 13.0000000
+Presolve removed 9 rows and 0 columns
+Presolve time: 0.02s
+Presolved: 1891 rows, 128 columns, 7906 nonzeros
+Variable types: 8 continuous, 120 integer (120 binary)
+
+Root relaxation: objective 6.000000e+00, 14 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+H    0     0                       6.0000000    0.00000   100%     -    0s
+     0     0          -    0         6.00000    6.00000  0.00%     -    0s
+
+Explored 0 nodes (28 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 6 13 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%
+
+Solving with random seed #2 ...
+Optimize a model with 1900 rows, 128 columns and 7968 nonzeros
+Model fingerprint: 0x97b27b02
+Variable types: 8 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+03]
+Found heuristic solution: objective 14.0000000
+Presolve removed 9 rows and 0 columns
+Presolve time: 0.02s
+Presolved: 1891 rows, 128 columns, 7906 nonzeros
+Variable types: 8 continuous, 120 integer (120 binary)
+
+Root relaxation: objective 6.000000e+00, 14 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+H    0     0                       6.0000000    0.00000   100%     -    0s
+     0     0          -    0         6.00000    6.00000  0.00%     -    0s
+
+Explored 0 nodes (36 simplex iterations) in 0.04 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 6 14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%
+
+Solving with random seed #3 ...
+Optimize a model with 1900 rows, 128 columns and 7968 nonzeros
+Model fingerprint: 0x97b27b02
+Variable types: 8 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+03]
+Found heuristic solution: objective 13.0000000
+Presolve removed 9 rows and 0 columns
+Presolve time: 0.02s
+Presolved: 1891 rows, 128 columns, 7906 nonzeros
+Variable types: 8 continuous, 120 integer (120 binary)
+
+Root relaxation: objective 6.000000e+00, 14 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+H    0     0                       6.0000000    0.00000   100%     -    0s
+     0     0          -    0         6.00000    6.00000  0.00%     -    0s
+
+Explored 0 nodes (32 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 6 13 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%
+
+Setting total tuning time limit to 1s
+(set the TuneTimeLimit parameter to choose a different value)
+
+-------------------------------------------------------------------------------
+Begin tuning (baseline mean runtime 0.04s)...
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 2...
+
+	Method 2
+
+Solving with random seed #1 ... runtime 0.03s
+Solving with random seed #2 ... runtime 0.03s
+Solving with random seed #3 ... runtime 0.03s
+
+Improvement found:
+  baseline: mean runtime 0.04s
+  improved: mean runtime 0.03s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 3...
+
+	MIPFocus 2
+
+Solving with random seed #1 ... runtime 0.04s
+Solving with random seed #2 ... runtime 0.04s
+Solving with random seed #3 ... runtime 0.04s
+
+Progress so far:
+  baseline: mean runtime 0.04s
+  best:     mean runtime 0.03s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 4...
+
+	Method 2
+	Aggregate 0
+
+Solving with random seed #1 ... runtime 0.04s
+Solving with random seed #2 ... runtime 0.03s
+Solving with random seed #3 ... runtime 0.03s
+
+Improvement found:
+  baseline: mean runtime 0.04s
+  improved: mean runtime 0.03s
+Total elapsed tuning time 0s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 5...
+
+	Method 0
+
+Solving with random seed #1 ... runtime 0.02s
+Solving with random seed #2 ... runtime 0.02s
+Solving with random seed #3 ... runtime 0.02s
+
+Improvement found:
+  baseline: mean runtime 0.04s
+  improved: mean runtime 0.02s
+Total elapsed tuning time 1s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 6...
+
+	Method 0
+	GomoryPasses 15
+
+Solving with random seed #1 ... runtime 0.02s
+Solving with random seed #2 ... runtime 0.02s
+Solving with random seed #3 ... runtime 0.02s
+
+Progress so far:
+  baseline: mean runtime 0.04s
+  best:     mean runtime 0.02s
+Total elapsed tuning time 1s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 7...
+
+	Method 0
+	StartNodeLimit 500
+
+Solving with random seed #1 ... runtime 0.02s
+Solving with random seed #2 ... runtime 0.03s+
+
+Progress so far:
+  baseline: mean runtime 0.04s
+  best:     mean runtime 0.02s
+Total elapsed tuning time 1s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 8...
+
+	GomoryPasses 15
+
+Solving with random seed #1 ... runtime 0.03s
+Solving with random seed #2 ... runtime 0.03s
+Solving with random seed #3 ... runtime 0.02s
+
+Progress so far:
+  baseline: mean runtime 0.04s
+  best:     mean runtime 0.02s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 9...
+
+	MIPFocus 1
+
+Solving with random seed #1 ... runtime 0.02s
+Solving with random seed #2 ... runtime 0.02s
+Solving with random seed #3 ... runtime 0.02s
+
+Improvement found:
+  baseline: mean runtime 0.04s
+  improved: mean runtime 0.02s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 10...
+
+	MIPFocus 1
+	ZeroHalfCuts 1
+
+Solving with random seed #1 ... runtime 0.02s
+Solving with random seed #2 ... runtime 0.02s
+Solving with random seed #3 ... runtime 0.02s
+
+Progress so far:
+  baseline: mean runtime 0.04s
+  best:     mean runtime 0.02s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 11...
+
+	Heuristics 0
+	MIPFocus 1
+
+Solving with random seed #1 ... runtime 0.02s
+Solving with random seed #2 ... runtime 0.02s
+Solving with random seed #3 ... runtime 0.02s
+
+Improvement found:
+  baseline: mean runtime 0.04s
+  improved: mean runtime 0.02s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 12...
+
+	MIPFocus 3
+
+Solving with random seed #1 ... runtime 0.03s+
+
+Progress so far:
+  baseline: mean runtime 0.04s
+  best:     mean runtime 0.02s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 13...
+
+	NormAdjust 1
+	MIPFocus 1
+
+Solving with random seed #1 ... runtime 0.02s
+Solving with random seed #2 ... runtime 0.02s
+Solving with random seed #3 ... runtime 0.02s
+
+Improvement found:
+  baseline: mean runtime 0.04s
+  improved: mean runtime 0.02s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 14...
+
+	MIPFocus 3
+	NumericFocus 2
+
+Solving with random seed #1 ... runtime 0.03s+
+
+Progress so far:
+  baseline: mean runtime 0.04s
+  best:     mean runtime 0.02s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 15...
+
+	Method 2
+	MIPFocus 1
+
+Solving with random seed #1 ... runtime 0.03s
+Solving with random seed #2 ... runtime 0.03s
+Solving with random seed #3 ... runtime 0.03s
+
+Progress so far:
+  baseline: mean runtime 0.04s
+  best:     mean runtime 0.02s
+Total elapsed tuning time 1s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Tested 15 parameter sets in 1.23s
+
+Baseline parameter set: mean runtime 0.04s
+
+Improved parameter set 1 (mean runtime 0.02s):
+
+	NormAdjust 1
+	MIPFocus 1
+
+Improved parameter set 2 (mean runtime 0.02s):
+
+	MIPFocus 1
+
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 1900 rows, 128 columns and 7968 nonzeros
+Model fingerprint: 0x97b27b02
+Variable types: 8 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+03]
+Found heuristic solution: objective 13.0000000
+Presolve removed 9 rows and 0 columns
+Presolve time: 0.02s
+Presolved: 1891 rows, 128 columns, 7906 nonzeros
+Variable types: 8 continuous, 120 integer (120 binary)
+
+Root relaxation: objective 6.000000e+00, 14 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+H    0     0                       6.0000000    0.00000   100%     -    0s
+     0     0          -    0         6.00000    6.00000  0.00%     -    0s
+
+Explored 0 nodes (28 simplex iterations) in 0.04 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 6 13 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%

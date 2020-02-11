@@ -1,0 +1,49 @@
+
+Gurobi 9.0.0 (linux64) logging started Fri 07 Feb 2020 01:36:16 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/2nd/hybrid-jss-job3_machine2_ds1.log
+   Prev: gurobi-jss.log_3_2  Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 11 rows, 9 columns and 24 nonzeros
+Model fingerprint: 0xe6bcc419
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 25 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.500000000000e+01, best bound 2.500000000000e+01, gap 0.0000%
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 13 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xf16d8ce0
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+
+MIP start from previous solve did not produce a new incumbent solution
+MIP start from previous solve violates constraint integer_cut[0] by 1.000000000
+
+Presolve removed 13 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 26 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.600000000000e+01, best bound 2.600000000000e+01, gap 0.0000%

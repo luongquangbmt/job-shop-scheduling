@@ -1,0 +1,424 @@
+
+Gurobi 9.0.0 (linux64) logging started Wed Feb  5 18:34:33 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/original/original-jss-job7_machine3_ds1.log
+   Prev:   Default: 
+
+Solving model using baseline parameter set with TimeLimit=3600s
+
+Solving with random seed #1 ...
+Optimize a model with 273 rows, 70 columns and 1106 nonzeros
+Model fingerprint: 0x0cf6c81a
+Variable types: 7 continuous, 63 integer (63 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 9e+01]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 9e+01]
+Presolve removed 93 rows and 23 columns
+Presolve time: 0.01s
+Presolved: 180 rows, 47 columns, 681 nonzeros
+Variable types: 5 continuous, 42 integer (42 binary)
+
+Root relaxation: objective 5.227679e+01, 37 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   52.27679    0   23          -   52.27679      -     -    0s
+H    0     0                      60.0000000   52.27679  12.9%     -    0s
+     0     0   53.25000    0   21   60.00000   53.25000  11.2%     -    0s
+     0     0   54.23503    0   21   60.00000   54.23503  9.61%     -    0s
+
+Cutting planes:
+  Gomory: 4
+  Cover: 2
+  Implied bound: 2
+  MIR: 8
+  Zero half: 2
+  RLT: 1
+
+Explored 1 nodes (56 simplex iterations) in 0.12 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 60 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+01, best bound 6.000000000000e+01, gap 0.0000%
+
+Solving with random seed #2 ...
+Optimize a model with 273 rows, 70 columns and 1106 nonzeros
+Model fingerprint: 0x0cf6c81a
+Variable types: 7 continuous, 63 integer (63 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 9e+01]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 9e+01]
+Presolve removed 93 rows and 23 columns
+Presolve time: 0.01s
+Presolved: 180 rows, 47 columns, 681 nonzeros
+Variable types: 5 continuous, 42 integer (42 binary)
+
+Root relaxation: objective 5.227679e+01, 37 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   52.27679    0   22          -   52.27679      -     -    0s
+H    0     0                      60.0000000   52.27679  12.9%     -    0s
+     0     0   53.50000    0   20   60.00000   53.50000  10.8%     -    0s
+
+Cutting planes:
+  Gomory: 3
+  Cover: 3
+  MIR: 10
+  GUB cover: 2
+  Zero half: 6
+  RLT: 3
+
+Explored 1 nodes (63 simplex iterations) in 0.11 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 60 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+01, best bound 6.000000000000e+01, gap 0.0000%
+
+Solving with random seed #3 ...
+Optimize a model with 273 rows, 70 columns and 1106 nonzeros
+Model fingerprint: 0x0cf6c81a
+Variable types: 7 continuous, 63 integer (63 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 9e+01]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 9e+01]
+Presolve removed 93 rows and 23 columns
+Presolve time: 0.01s
+Presolved: 180 rows, 47 columns, 681 nonzeros
+Variable types: 5 continuous, 42 integer (42 binary)
+
+Root relaxation: objective 5.227679e+01, 37 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   52.27679    0   23          -   52.27679      -     -    0s
+H    0     0                      60.0000000   52.27679  12.9%     -    0s
+     0     0   53.25000    0   22   60.00000   53.25000  11.2%     -    0s
+     0     0   55.00000    0   22   60.00000   55.00000  8.33%     -    0s
+
+Cutting planes:
+  Gomory: 4
+  Cover: 2
+  Implied bound: 2
+  MIR: 8
+  Zero half: 2
+  RLT: 1
+
+Explored 1 nodes (58 simplex iterations) in 0.11 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 60 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+01, best bound 6.000000000000e+01, gap 0.0000%
+
+Setting total tuning time limit to 4s
+(set the TuneTimeLimit parameter to choose a different value)
+
+-------------------------------------------------------------------------------
+Begin tuning (baseline mean runtime 0.12s)...
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 2...
+
+	Method 2
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.09s
+Solving with random seed #3 ... runtime 0.09s
+
+Improvement found:
+  baseline: mean runtime 0.12s
+  improved: mean runtime 0.08s
+Total elapsed tuning time 1s (3s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 3...
+
+	MIPFocus 2
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.04s
+Solving with random seed #3 ... runtime 0.06s
+
+Improvement found:
+  baseline: mean runtime 0.12s
+  improved: mean runtime 0.06s
+Total elapsed tuning time 1s (3s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 4...
+
+	MIPFocus 2
+	Aggregate 0
+
+Solving with random seed #1 ... runtime 0.10s+
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 1s (3s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 5...
+
+	Method 0
+	MIPFocus 2
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.05s
+Solving with random seed #3 ... runtime 0.08s
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 1s (3s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 6...
+
+	BranchDir -1
+	MIPFocus 2
+
+Solving with random seed #1 ... runtime 0.08s
+Solving with random seed #2 ... runtime 0.06s
+Solving with random seed #3 ... runtime 0.05s
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 1s (2s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 7...
+
+	MIPFocus 2
+	StartNodeLimit 500
+
+Solving with random seed #1 ... runtime 0.08s
+Solving with random seed #2 ... runtime 0.05s
+Solving with random seed #3 ... runtime 0.07s
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 2s (2s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 8...
+
+	BranchDir -1
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.06s
+Solving with random seed #3 ... runtime 0.05s
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 2s (2s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 9...
+
+	MIPFocus 1
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.04s
+Solving with random seed #3 ... runtime 0.06s
+
+Improvement found:
+  baseline: mean runtime 0.12s
+  improved: mean runtime 0.06s
+Total elapsed tuning time 2s (2s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 10...
+
+	MIPFocus 1
+	ZeroHalfCuts 1
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.06s
+Solving with random seed #3 ... runtime 0.08s
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 2s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 11...
+
+	MIPFocus 3
+
+Solving with random seed #1 ... runtime 0.08s
+Solving with random seed #2 ... runtime 0.07s
+Solving with random seed #3 ... runtime 0.08s+
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 3s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 12...
+
+	Presolve 2
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.06s
+Solving with random seed #3 ... runtime 0.08s
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 3s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 13...
+
+	NormAdjust 1
+	MIPFocus 1
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.06s
+Solving with random seed #3 ... runtime 0.06s
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 3s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 14...
+
+	MIPFocus 3
+	NumericFocus 2
+
+Solving with random seed #1 ... runtime 0.08s+
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 3s (1s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 15...
+
+	Method 2
+	MIPFocus 1
+
+Solving with random seed #1 ... runtime 0.08s+
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 3s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 16...
+
+	Cuts 0
+
+Solving with random seed #1 ... runtime 0.07s
+Solving with random seed #2 ... runtime 0.06s
+Solving with random seed #3 ... runtime 0.07s
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 4s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Testing candidate parameter set 17...
+
+	StartNodeLimit -2
+	Presolve 2
+
+Solving with random seed #1 ... runtime 0.06s
+Solving with random seed #2 ... runtime 0.05s
+Solving with random seed #3 ... runtime 0.08s+
+
+Progress so far:
+  baseline: mean runtime 0.12s
+  best:     mean runtime 0.06s
+Total elapsed tuning time 4s (0s remaining)
+
+-------------------------------------------------------------------------------
+
+Tested 17 parameter sets in 3.85s
+
+Baseline parameter set: mean runtime 0.12s
+
+Improved parameter set 1 (mean runtime 0.06s):
+
+	MIPFocus 1
+
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 273 rows, 70 columns and 1106 nonzeros
+Model fingerprint: 0x0cf6c81a
+Variable types: 7 continuous, 63 integer (63 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 9e+01]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 9e+01]
+Presolve removed 93 rows and 23 columns
+Presolve time: 0.01s
+Presolved: 180 rows, 47 columns, 681 nonzeros
+Variable types: 5 continuous, 42 integer (42 binary)
+
+Root relaxation: objective 5.227679e+01, 37 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   52.27679    0   23          -   52.27679      -     -    0s
+H    0     0                      60.0000000   52.27679  12.9%     -    0s
+     0     0   53.25000    0   21   60.00000   53.25000  11.2%     -    0s
+     0     0   54.23503    0   21   60.00000   54.23503  9.61%     -    0s
+
+Cutting planes:
+  Gomory: 4
+  Cover: 2
+  Implied bound: 2
+  MIR: 8
+  Zero half: 2
+  RLT: 1
+
+Explored 1 nodes (56 simplex iterations) in 0.10 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 60 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+01, best bound 6.000000000000e+01, gap 0.0000%

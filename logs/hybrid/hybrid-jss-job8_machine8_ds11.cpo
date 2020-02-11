@@ -1,0 +1,53 @@
+///////////////////////////////////////////////////////////////////////////////
+// CPO file generated at 2020.02.05-18:38:52 for model: CP-Model
+// Source file: /home/hoale/Study/Code/hybrid/hybrid_cp_solver.py
+///////////////////////////////////////////////////////////////////////////////
+
+//--- Constants ---
+
+//--- Variables ---
+#line 44 "/home/hoale/Study/Code/hybrid/hybrid_cp_solver.py"
+"start-time-J0" = intervalVar(size=0);
+"start-time-J1" = intervalVar(size=95);
+"start-time-J2" = intervalVar(size=0);
+"start-time-J3" = intervalVar(size=120);
+"start-time-J4" = intervalVar(size=120);
+"start-time-J5" = intervalVar(size=120);
+"start-time-J6" = intervalVar(size=120);
+"start-time-J7" = intervalVar(size=120);
+
+//--- Expressions ---
+#line 44 "/home/hoale/Study/Code/hybrid/hybrid_cp_solver.py"
+startOf("start-time-J0") >= 100;
+startOf("start-time-J1") >= 0;
+startOf("start-time-J2") >= 140;
+startOf("start-time-J3") >= 200;
+startOf("start-time-J4") >= 400;
+startOf("start-time-J5") >= 0;
+startOf("start-time-J6") >= 150;
+startOf("start-time-J7") >= 200;
+#line 47
+startOf("start-time-J0") <= 800;
+startOf("start-time-J1") <= 505;
+startOf("start-time-J2") <= 800;
+startOf("start-time-J3") <= 880;
+startOf("start-time-J4") <= 1880;
+startOf("start-time-J5") <= 680;
+startOf("start-time-J6") <= 780;
+startOf("start-time-J7") <= 1080;
+#line 50
+sizeOf("start-time-J0") == 0;
+sizeOf("start-time-J1") == 95;
+sizeOf("start-time-J2") == 0;
+sizeOf("start-time-J3") == 120;
+sizeOf("start-time-J4") == 120;
+sizeOf("start-time-J5") == 120;
+sizeOf("start-time-J6") == 120;
+sizeOf("start-time-J7") == 120;
+#line 65
+(endOf("start-time-J3") <= startOf("start-time-J4")) || (endOf("start-time-J4") <= startOf("start-time-J3"));
+(endOf("start-time-J3") <= startOf("start-time-J5")) || (endOf("start-time-J5") <= startOf("start-time-J3"));
+(endOf("start-time-J3") <= startOf("start-time-J7")) || (endOf("start-time-J7") <= startOf("start-time-J3"));
+(endOf("start-time-J4") <= startOf("start-time-J5")) || (endOf("start-time-J5") <= startOf("start-time-J4"));
+(endOf("start-time-J4") <= startOf("start-time-J7")) || (endOf("start-time-J7") <= startOf("start-time-J4"));
+(endOf("start-time-J5") <= startOf("start-time-J7")) || (endOf("start-time-J7") <= startOf("start-time-J5"));

@@ -1,0 +1,2592 @@
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:23:02 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:25:37 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:28:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:29:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:31:23 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:31:30 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:32:28 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:32:28 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8907784e
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 09:41:01 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 09:41:02 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8907784e
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 09:44:31 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 09:44:31 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8907784e
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:45:58 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:45:58 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8907784e
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:50:54 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 09:50:54 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8907784e
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 10:11:53 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 10:11:53 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8907784e
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 10:26:25 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 10:26:25 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8907784e
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:37 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:37 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:37 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:37 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:37 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:37 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:38 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:39 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:40 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:00:41 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:11:22 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu Feb  6 11:11:22 2020
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milpjob3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8907784e
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -

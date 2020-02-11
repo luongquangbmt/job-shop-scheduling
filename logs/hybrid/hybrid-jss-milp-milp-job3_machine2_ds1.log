@@ -1,0 +1,1400 @@
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:21:13 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:21:13 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xd1cfe834
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:22:17 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:22:17 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8de5ac36
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:23:06 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:23:06 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8de5ac36
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:23:40 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:23:40 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8de5ac36
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:24:12 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:24:12 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x8de5ac36
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:30:01 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:30:01 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x0055b1db
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:32:46 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:32:46 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x0055b1db
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[1]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:35:52 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:36:22 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 11:36:22 AM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x0055b1db
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[1]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:41:28 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0xe9e3d324
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:41:28 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 15 columns and 30 nonzeros
+Model fingerprint: 0x0055b1db
+Variable types: 3 continuous, 12 integer (12 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 12 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[1]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:45:34 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:45:34 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x16736079
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[1]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:55:56 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:55:56 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:56:34 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:56:34 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:58:20 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 18 rows, 9 columns and 36 nonzeros
+Model fingerprint: 0xe28df23a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:58:20 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 18 rows, 9 columns and 36 nonzeros
+Model fingerprint: 0xd66426bd
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:58:42 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 12:58:42 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:00:42 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xd7135f29
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 15 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:00:59 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:00:59 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:01:25 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x9655de72
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+01]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:01:25 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x91109160
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+01]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:02:18 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:02:18 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:03:31 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:03:31 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:05:38 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0       15         0        3         0s
+        3        3         0        0         0s
+
+IIS computed: 3 constraints, 0 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:05:38 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0       15         0        3         0s
+        3        3         0        0         0s
+
+IIS computed: 3 constraints, 0 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:11:33 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0       15         0        3         0s
+        3        3         0        0         0s
+
+IIS computed: 3 constraints, 0 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:11:33 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0       15         0        3         0s
+        3        3         0        0         0s
+
+IIS computed: 3 constraints, 0 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:13:49 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0       15         0        3         0s
+        3        3         0        0         0s
+
+IIS computed: 3 constraints, 0 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:13:49 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0       15         0        3         0s
+        3        3         0        0         0s
+
+IIS computed: 3 constraints, 0 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:14:25 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0xe4b5933a
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0       15         0        3         0s
+        3        3         0        0         0s
+
+IIS computed: 3 constraints, 0 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:14:25 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 15 rows, 9 columns and 30 nonzeros
+Model fingerprint: 0x5ca4b1ac
+Variable types: 3 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0       15         0        3         0s
+        3        3         0        0         0s
+
+IIS computed: 3 constraints, 0 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:16:06 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 9 rows, 5 columns and 14 nonzeros
+Model fingerprint: 0x9d0f7b73
+Variable types: 3 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 3 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Computing Irreducible Inconsistent Subsystem (IIS)...
+
+      Constraints           Bounds       Runtime
+     Min       Max       Min      Max
+------------------------------------------------
+        0        9         0        3         0s
+        6        6         1        1         0s
+
+IIS computed: 6 constraints, 1 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:16:06 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 9 rows, 5 columns and 14 nonzeros
+Model fingerprint: 0xe1484822
+Variable types: 3 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 9 rows and 5 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: constraint name "assigned job release constraint[0]" has a space
+Presolve removed 9 rows and 5 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+IIS runtime: 0.00 seconds
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:16:46 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 9 rows, 5 columns and 14 nonzeros
+Model fingerprint: 0x9d0f7b73
+Variable types: 3 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 3 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Thu 06 Feb 2020 01:16:46 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 9 rows, 5 columns and 14 nonzeros
+Model fingerprint: 0xe1484822
+Variable types: 3 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 9 rows and 5 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Fri 07 Feb 2020 01:36:16 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 9 rows, 5 columns and 14 nonzeros
+Model fingerprint: 0x9d0f7b73
+Variable types: 3 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 6 rows and 3 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: constraint name "assigned job release constraint[0]" has a space
+
+Gurobi 9.0.0 (linux64) logging started Fri 07 Feb 2020 01:36:16 PM CET
+
+Changed value of parameter LogFile to /home/hoale/Study/Code/logs/hybrid/hybrid-jss-milp-milp-job3_machine2_ds1.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 9 rows, 5 columns and 14 nonzeros
+Model fingerprint: 0xe1484822
+Variable types: 3 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 9 rows and 5 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: constraint name "assigned job release constraint[0]" has a space

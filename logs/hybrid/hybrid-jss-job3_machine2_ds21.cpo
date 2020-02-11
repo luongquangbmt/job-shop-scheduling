@@ -1,0 +1,30 @@
+///////////////////////////////////////////////////////////////////////////////
+// CPO file generated at 2020.02.05-18:41:06 for model: CP-Model
+// Source file: /home/hoale/Study/Code/hybrid/hybrid_cp_solver.py
+///////////////////////////////////////////////////////////////////////////////
+
+//--- Constants ---
+
+//--- Variables ---
+#line 44 "/home/hoale/Study/Code/hybrid/hybrid_cp_solver.py"
+"start-time-J0" = intervalVar(size=7);
+"start-time-J1" = intervalVar(size=4);
+"start-time-J2" = intervalVar(size=7);
+
+//--- Expressions ---
+#line 44 "/home/hoale/Study/Code/hybrid/hybrid_cp_solver.py"
+startOf("start-time-J0") >= 2;
+startOf("start-time-J1") >= 3;
+startOf("start-time-J2") >= 4;
+#line 47
+startOf("start-time-J0") <= 9;
+startOf("start-time-J1") <= 9;
+startOf("start-time-J2") <= 14;
+#line 50
+sizeOf("start-time-J0") == 7;
+sizeOf("start-time-J1") == 4;
+sizeOf("start-time-J2") == 7;
+#line 65
+(endOf("start-time-J0") <= startOf("start-time-J1")) || (endOf("start-time-J1") <= startOf("start-time-J0"));
+(endOf("start-time-J0") <= startOf("start-time-J2")) || (endOf("start-time-J2") <= startOf("start-time-J0"));
+(endOf("start-time-J1") <= startOf("start-time-J2")) || (endOf("start-time-J2") <= startOf("start-time-J1"));

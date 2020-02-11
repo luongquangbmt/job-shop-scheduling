@@ -121,4 +121,3 @@ if __name__ == '__main__':
         job_dict = formulate_jobs_dict(job_ids, request_times, process_intervals)
         gantt_chart_plot(job_dict, ssjsp_solver.schedules, processing_cost, "Gurobi Solver for original problem")
         plt.show()
-        
