@@ -7,3 +7,4 @@ gurobi-jss.log_*_*
 job-shop-scheduling/
 *log
 *lp
+.idea/
